@@ -1,7 +1,5 @@
-alunos
 professor
 disciplina
-root
 discente
 docente
 theo
